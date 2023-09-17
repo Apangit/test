@@ -1,3 +1,3 @@
 <?php
-phpoinfo();
+phpinfo();
 </php>
